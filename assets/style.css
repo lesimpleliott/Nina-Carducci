@@ -253,6 +253,11 @@ form textarea {
 	font-size: 1.2em;
 	margin-bottom: 20px;
 }
+
+form input, form textarea {
+	background: #fff;
+}
+
 input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
